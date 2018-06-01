@@ -159,6 +159,7 @@
      <Compile Include="Assets\Simple_Day_and_Night_Cycle\Scripts\DayAndNightControl.cs" />
      <Compile Include="Assets\Simple_Day_and_Night_Cycle\Scripts\VisualClockController.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <Compile Include="Assets\VRSampleScenes\Scripts\BotAI\SpaceshipAI.cs" />
      <Compile Include="Assets\VRSampleScenes\Scripts\Common\SessionData.cs" />
      <Compile Include="Assets\VRSampleScenes\Scripts\Flyer\Asteroid.cs" />
      <Compile Include="Assets\VRSampleScenes\Scripts\Flyer\EnvironmentController.cs" />
